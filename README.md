@@ -81,3 +81,8 @@ Halo 使用 GPL-v3.0 协议开源，请遵守开源协议。
 ## 状态
 
 ![Repobeats analytics](https://repobeats.axiom.co/api/embed/ad008b2151c22e7cf734d2688befaa795d593b95.svg "Repobeats analytics image")
+
+## 如何合并最新的halo
+1. git remote add upstream git@github.com:halo-dev/halo.git
+2. git fetch upstream
+3. git merge upstream/main

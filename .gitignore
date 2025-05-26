@@ -76,3 +76,4 @@ application-local.properties
 application/src/main/resources/console/
 application/src/main/resources/uc/
 application/src/main/resources/presets/
+.history
